@@ -1,0 +1,6 @@
+UDP Network Communications Library (UNCL) Installation
+
+To install type 'make install' as the root user.
+By default, this will install the library libuncl in /usr/lib and the header
+file uncl.h in /usr/include. If you wish to override the default install
+location type 'make install PREFIX=mydir' where "mydir" is substituted for /usr.
